@@ -1,7 +1,0 @@
-# compile vhdl design source files
-vhdl xil_defaultlib  \
-"../../../../ECE448_Lab_1_Exercise.srcs/sources_1/imports/Xilinx/ALU.vhd" \
-"../../../../ECE448_Lab_1_Exercise.srcs/sim_1/new/Lab_1_Exercise_tb.vhd" \
-
-# Do not sort compile order
-nosort
