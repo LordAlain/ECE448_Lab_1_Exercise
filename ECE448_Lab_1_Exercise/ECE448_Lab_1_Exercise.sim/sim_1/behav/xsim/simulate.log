@@ -1,0 +1,20 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Testing ALU with input 00000001100
+Testing ALU with input 00000010100
+Testing ALU with input 00100100011
+Testing ALU with input 00100111010
+Testing ALU with input 01001000111
+Testing ALU with input 01001011001
+Testing ALU with input 01101101001
+Testing ALU with input 01101111010
+Testing ALU with input 10010000111
+Testing ALU with input 10010011000
+Testing ALU with input 10110101011
+Testing ALU with input 10110111101
+Testing ALU with input 11011000100
+Testing ALU with input 11011010010
+Testing ALU with input 11111101110
+Testing ALU with input 11111111111
+Note: ALU passed.
+Time: 160 ns  Iteration: 0  Process: /Lab_1_Exercise_tb/DUV_ALU  File: C:/Users/akomm/Desktop/School/Xilinx/ECE448_Lab_1_Exercise/ECE448_Lab_1_Exercise.srcs/sim_1/new/Lab_1_Exercise_tb.vhd
